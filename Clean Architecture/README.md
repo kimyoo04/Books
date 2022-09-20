@@ -1,4 +1,4 @@
-# 모두의 네트워크
+# Clean Architecture
 
 ```text
 ### 설명

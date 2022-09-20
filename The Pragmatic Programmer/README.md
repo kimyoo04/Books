@@ -1,4 +1,4 @@
-# CODE 스터디
+# The Pragmatic Programmer
 
 ```text
 ### 설명
